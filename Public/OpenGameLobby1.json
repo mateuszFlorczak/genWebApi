@@ -1,0 +1,30 @@
+{
+  "players": [
+    {
+      "governs": {
+        "name": "country1"
+      },
+      "human": true,
+      "user": {
+        "name": "host"
+      }
+    },
+    {
+      "governs": {
+        "name": "country2"
+      },
+      "human": false
+    },
+    {
+      "governs": {
+        "name": "country3"
+      },
+      "human": false
+    }
+  ],
+  "presentUsers": [
+    {
+      "name": "host"
+    }
+  ]
+}

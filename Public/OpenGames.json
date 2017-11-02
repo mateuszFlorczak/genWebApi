@@ -1,0 +1,41 @@
+{
+    "games": [
+              {
+              "host": {
+              "name": "host"
+              },
+              "presentUsersCount": 1,
+              "settings": {
+              "gameName": "my first game",
+              "id": 0,
+              "maxPlayers": 10,
+              "maxUsers": 5
+              }
+              },
+              {
+              "host": {
+              "name": "host2"
+              },
+              "presentUsersCount": 1,
+              "settings": {
+              "gameName": "troll game",
+              "id": 1,
+              "maxPlayers": 5,
+              "maxUsers": 5
+              }
+              },
+              {
+              "host": {
+              "name": "host"
+              },
+              "presentUsersCount": 1,
+              "settings": {
+              "gameName": "one on one",
+              "id": 2,
+              "maxPlayers": 2,
+              "maxUsers": 2
+              }
+              }
+              ]
+}
+

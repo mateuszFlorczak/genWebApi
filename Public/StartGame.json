@@ -1,0 +1,17 @@
+{
+  "currentPlayerCountry": {
+    "money": 12345,
+    "name": "country3"
+  },
+  "gameState": {
+    "countries": [
+      {
+        "name": "country1"
+      },
+      {
+        "name": "country2"
+      }
+    ],
+    "turn": 1
+  }
+}

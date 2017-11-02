@@ -15,6 +15,12 @@ extension Droplet {
             return "Hello, world!"
         }
         
+        self.get("open-games") { (req: Request) in
+            var json = JSON()
+            try json.set("hello", "world")
+            return json
+        }
+        
         // response to requests to /info_api domain
         // with a description of the request
         self.get("info_api") { (req: Request) in

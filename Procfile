@@ -1,1 +1,1 @@
-web: App --workers 3 --bind 0.0.0.0:$PORT
+web: Run --workers 3 --bind 0.0.0.0:$PORT
